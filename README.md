@@ -15,6 +15,11 @@
 4. **Manajemen Pemain**: Pengguna dapat melihat daftar pemain, menambahkan pemain baru, memperbarui detail pemain, dan menghapus pemain yang sudah tidak diperlukan.
 5. **Manajemen Karakter**: Pengguna dapat melihat daftar karakter dalam film, menambahkan karakter baru, memperbarui detail karakter, dan menghapus karakter yang sudah tidak diperlukan.
 
+## ERD Desain
+
+<img src="public/erd/erd-screenscore.png" alt="Desain_ERD_ELibs_Kelompok20">
+
+
 ### Endpoint API
 
 #### Films
