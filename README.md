@@ -82,3 +82,11 @@ Admin
     "password" : "password"
 }
 ```
+
+### Backend Api Deploy
+```
+https://api-screenscore.techside.my.id/
+```
+
+### Backend Demo Video
+link Youtube : <a href="https://youtu.be/aNnQsVlLklc" target="_blank">https://youtu.be/aNnQsVlLklc</a>
