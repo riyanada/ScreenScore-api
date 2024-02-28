@@ -70,5 +70,15 @@
 4. Jalankan migrasi database dengan menjalankan `php artisan migrate`.
 5. Jalankan seeder dengan menjalankan `php artisan db:seed`.
 6. Jalankan aplikasi dengan perintah `php -S localhost:8000 -t public`.
+7. Export Collection Postman nama file `"ScreenScore API Docs.postman_collection.json"`
 
 Sekarang, aplikasi "ScreenScore" siap digunakan untuk mengelola data film dan ulasan. Silakan jelajahi dan gunakan API sesuai kebutuhan Anda.
+
+### Login Information 
+Admin 
+```
+{
+    "email" : "admin@example.com",
+    "password" : "password"
+}
+```
